@@ -1,3 +1,20 @@
+wedgefiles_clean.zip
+wedge data engineering-analysis brief.docx
+*.db
+*.sqbpro
+wedgefiles_clean/*
+
+
+
+
+
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
