@@ -1,8 +1,10 @@
-wedgefiles_clean.zip
+WedgeFiles_clean.zip
 wedge data engineering-analysis brief.docx
 *.db
-*.sqbpro
+*.sqbprd
+*.docx
 wedgefiles_clean/*
+Wedge Data Engineering_Analysis Brief/*
 
 
 
