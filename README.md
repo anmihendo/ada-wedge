@@ -15,3 +15,13 @@ John, here are some notes for you regarding my submission:
 * Part 3
   + A little weird to have this in a folder but not part 2. No biggie.
   + Otherwise this looks great and is **complete**.
+
+
+## Changes
+Made the the changes in part 2 as required.
+Thank you for the feedback and sorry for the horrible original readme file.
+
+Would it have made sense to put both part 2 and part 3 in their respected folders or should I have just left them in the main folder?
+
+V/R
+Antonio Hendricks
