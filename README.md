@@ -25,3 +25,11 @@ Would it have made sense to put both part 2 and part 3 in their respected folder
 
 V/R
 Antonio Hendricks
+
+## Feedback 2
+
+Nice work, thanks for the revisions. This exercise is **complete**. 
+
+For the folders question, it's totally a judgment call. I usually only use sub-folders when I have a few different files 
+that it makes sense to have in their own tidy package. (For instance, on a long project I'll usually do separate folders
+for V1, V2, etc.) I think for this project it would have been fine to just have everything in its own top-level directory. 
